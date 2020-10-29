@@ -14,7 +14,7 @@ A working LAMP amd Traccar server running over MySQL database and bidirectionals
 
 Structure files:
  - Traccar2Kml.php   Main executable file
- - Traccar2Kml.conf  Server, DatabaseName, DataBasePassword, RefrashTime, Url, IconsPath, OutPutPath, OutFilename, HTMLDeBugOutput, IconPixels (default 64), IconScalePixel... 
+ - Traccar2Kml.conf  ServerName, DatabaseName, DataBasePassword, RefreshTime, ServerUrl, IconsPath, OutPutPath, OutFilename, HTMLDeBugOutput, IconPixels (default 64), IconScalePixel... 
  - Traccar2Kml.kml   This file may be opened by Google Earth, which will read each X seconds Traccar2KmlOut.kml.
  - Traccar2KmlOut.kml This file cotains the devices data.
  - Traccar2KmlOut.html Html chart for Debuging outout file data.
