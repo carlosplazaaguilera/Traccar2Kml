@@ -40,8 +40,6 @@ RoadMap
 
 
 Last update.
- 29th October 2020, Carlos Plaza Aguilera hidrantescpa@gmail.com 
+ 29th October 2020, Carlos Plaza Aguilera
  
  This code is under development and no working version exist. Help needed.
- 
- Carlos Plaza Aguilera
